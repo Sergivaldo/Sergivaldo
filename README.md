@@ -12,11 +12,7 @@
 </div>
 <div  align="center" ><br>
   <h4>Tecnologias que utilizo:</h4>
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="JavaScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="HTML5" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"/>
-  <img align="center" alt="HTML5" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"/>
-  <img align="center" alt="HTML5" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,java,git" />
 </div>
 
 <div align="center" > 
