@@ -13,9 +13,13 @@
 <div  align="center" ><br>
   <h4>Tecnologias que utilizo:</h4>
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="JavaScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="HTML5" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"/>
+  <img align="center" alt="HTML5" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"/>
+  <img align="center" alt="HTML5" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"/>
 </div>
 
-<div align="center"> 
+<div align="center" > 
   <h4>Contatos</h4>
   <a href="https://www.instagram.com/sergivaldojunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sergivaldo123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
