@@ -1,7 +1,6 @@
 ### Olá mundo 🌎 meu nome é Sergivaldo Junior 😁
 
 
-- 🌱 Estudando Java ☕, HTML e CSS...
 
 
 <br><br>
