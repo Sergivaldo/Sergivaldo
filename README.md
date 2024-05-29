@@ -11,7 +11,7 @@
 </div>
 <div  align="center" ><br>
   <h4>Tecnologias que utilizo:</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,java,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,java,git,tailwind,dart,docker,flutter,github,maven,postgres,spring" />
 </div>
 
 <div align="center" > 
